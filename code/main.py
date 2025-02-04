@@ -46,7 +46,7 @@ class SummaryMethod(object):
 KG_MAPPING = {
     'YAGO': YAGO(rdf_gz='yagoFacts.gz', query_dir='final/', mid_dir='by-mid/'),
     'Freebase': Freebase(query_dir='queries/final/'),
-    'DBPedia': DBPedia(),
+    'DBpedia': DBPedia(),
     'MetaQA': MetaQA(),
 }
 
