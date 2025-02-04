@@ -37,7 +37,7 @@ YAGO can downloaded from https://www.mpi-inf.mpg.de/departments/databases-and-in
 ## How to run
 Go to code/src/path.py, change the dataset path if needed. The resulted log file name can be set in main.py line 14.
 
-For each dataset, you can run the corresponding command. We recommand to run MetaQA first because DBPedia and YAGO are very large knowledge graph datasets and takes time to finish executing.
+For each dataset, you can run the corresponding command. We recommand to run MetaQA first because DBpedia and YAGO are very large knowledge graph datasets and takes time to finish executing.
 
 ```sh
 cd code
