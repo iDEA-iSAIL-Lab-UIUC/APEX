@@ -3,7 +3,7 @@
 Figure credit: (one of) my favorite video game [APEX Legends](https://en.wikipedia.org/wiki/Apex_Legends). This project is dedicated to the memory of my undergraduate years.
 
 ------------------------
-**[Paper](./KDD2025_APEX2_arXiv.pdf)** | **[Poster](./KDD_2025_Poster.pdf)** | **[Video Summary](https://www.youtube.com/watch?v=FtcNqk7rX40)** | 
+**[Paper (full arXiv version)](./KDD2025_APEX2_arXiv.pdf)** | **[Paper (ACM version)](https://dl.acm.org/doi/abs/10.1145/3690624.3709213)** | **[Poster](./KDD_2025_Poster.pdf)** | **[Video Summary](https://www.youtube.com/watch?v=FtcNqk7rX40)**
 
 ## file structure
     - README.md (this file)
