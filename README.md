@@ -75,10 +75,29 @@ For convenience, we save the detailed experiment results in the log files. We re
 If you find this repository useful in your research, please consider citing the following paper:
 
 ```
-@article{li2024apex,
-  title={APEX $\^{} 2$: Adaptive and Extreme Summarization for Personalized Knowledge Graphs},
-  author={Li, Zihao and Fu, Dongqi and Ai, Mengting and He, Jingrui},
-  journal={arXiv preprint arXiv:2412.17336},
-  year={2024}
+@inproceedings{DBLP:conf/kdd/LiFAH25,
+  author       = {Zihao Li and
+                  Dongqi Fu and
+                  Mengting Ai and
+                  Jingrui He},
+  editor       = {Yizhou Sun and
+                  Flavio Chierichetti and
+                  Hady W. Lauw and
+                  Claudia Perlich and
+                  Wee Hyong Tok and
+                  Andrew Tomkins},
+  title        = {APEX\({}^{\mbox{2}}\): Adaptive and Extreme Summarization for Personalized
+                  Knowledge Graphs},
+  booktitle    = {Proceedings of the 31st {ACM} {SIGKDD} Conference on Knowledge Discovery
+                  and Data Mining, V.1, {KDD} 2025, Toronto, ON, Canada, August 3-7,
+                  2025},
+  pages        = {741--752},
+  publisher    = {{ACM}},
+  year         = {2025},
+  url          = {https://doi.org/10.1145/3690624.3709213},
+  doi          = {10.1145/3690624.3709213},
+  timestamp    = {Tue, 08 Jul 2025 09:19:45 +0200},
+  biburl       = {https://dblp.org/rec/conf/kdd/LiFAH25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
