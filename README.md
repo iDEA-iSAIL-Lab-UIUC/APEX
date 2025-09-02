@@ -34,11 +34,19 @@ We provide MetaQA that we used in our experiments along with the source code.
 
 DBpedia can be download from http://downloads.dbpedia.org/3.5.1/en/. Specifically, download the "mappingbased_properties_en.nt" file. Rename it to 'facts.gz' and place it as PKG_EXP/DBpedia/facts.gz.
 
-YAGO can downloaded from https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads/. The button is Download YAGO Themes -> CORE -> yagoFacts -> Download TSV. Convert to ".gz" file using gzip if not in this format.
+YAGO can downloaded from https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads/. The button is Download YAGO Themes -> CORE -> yagoFacts -> Download TSV. If clicking on "Download TSV" doesn't work, right click "Download TSV" and copy link address then open in a new window in your browser. After downloading, convert to ".gz" file using gzip if not in this format.
 
-
-
-
+Commands to prepare the datasets:
+```
+# DBpedia
+wget https://downloads.dbpedia.org/3.5.1/en/mappingbased_properties_en.nt.bz2
+mv mappingbased_properties_en.nt.bz2 PKG_EXP/DBpedia/facts.gz
+# YAGO
+wget http://resources.mpi-inf.mpg.de/yago-naga/yago3.1/yagoFacts.tsv.7z
+# if 7z is not installed, you can manually extract the 7z file on Windows/Mac machine
+7z x yagoFacts.tsv.7z
+gzip yagoFacts.tsv
+```
 ## How to run
 Go to code/src/path.py, change the dataset path if needed. The resulted log file name can be set in main.py line 14.
 
