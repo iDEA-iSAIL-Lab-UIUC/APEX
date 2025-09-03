@@ -1,0 +1,1 @@
+{"QuestionId": "97", "Parse": {"TopicEntityMid": "Heaven Help Us", "TopicEntityName": "Heaven Help Us", "InferentialChain": ["movie_to_year"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "1985", "EntityName": "1985"}]}}

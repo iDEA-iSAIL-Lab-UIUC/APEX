@@ -1,0 +1,1 @@
+{"QuestionId": "161", "Parse": {"TopicEntityMid": "The Cruel Sea", "TopicEntityName": "The Cruel Sea", "InferentialChain": ["movie_to_director"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Charles Frend", "EntityName": "Charles Frend"}]}}

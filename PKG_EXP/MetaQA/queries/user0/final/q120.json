@@ -1,0 +1,1 @@
+{"QuestionId": "120", "Parse": {"TopicEntityMid": "Denise Dillaway", "TopicEntityName": "Denise Dillaway", "InferentialChain": ["actor_to_movie"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "The Cheerleaders", "EntityName": "The Cheerleaders"}]}}

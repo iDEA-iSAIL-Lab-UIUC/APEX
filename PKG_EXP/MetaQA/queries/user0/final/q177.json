@@ -1,0 +1,1 @@
+{"QuestionId": "177", "Parse": {"TopicEntityMid": "The Great Gabbo", "TopicEntityName": "The Great Gabbo", "InferentialChain": ["movie_to_director"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Erich von Stroheim", "EntityName": "Erich von Stroheim"}, {"AnswerType": "Entity", "AnswerArgument": "James Cruze", "EntityName": "James Cruze"}]}}

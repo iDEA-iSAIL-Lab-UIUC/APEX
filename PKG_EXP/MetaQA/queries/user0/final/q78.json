@@ -1,0 +1,1 @@
+{"QuestionId": "78", "Parse": {"TopicEntityMid": "...All the Marbles", "TopicEntityName": "...All the Marbles", "InferentialChain": ["movie_to_director"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Robert Aldrich", "EntityName": "Robert Aldrich"}]}}

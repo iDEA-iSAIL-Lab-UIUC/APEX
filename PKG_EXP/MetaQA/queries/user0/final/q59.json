@@ -1,0 +1,1 @@
+{"QuestionId": "59", "Parse": {"TopicEntityMid": "G\u00e9rard Lanvin", "TopicEntityName": "G\u00e9rard Lanvin", "InferentialChain": ["actor_to_movie"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Point Blank", "EntityName": "Point Blank"}]}}

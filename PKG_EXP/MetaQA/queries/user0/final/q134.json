@@ -1,0 +1,1 @@
+{"QuestionId": "134", "Parse": {"TopicEntityMid": "Hell Drivers", "TopicEntityName": "Hell Drivers", "InferentialChain": ["movie_to_tags"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "herbert lom", "EntityName": "herbert lom"}, {"AnswerType": "Entity", "AnswerArgument": "patrick mcgoohan", "EntityName": "patrick mcgoohan"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId": "18", "Parse": {"TopicEntityMid": "The Disappearance of Haruhi Suzumiya", "TopicEntityName": "The Disappearance of Haruhi Suzumiya", "InferentialChain": ["movie_to_year"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "2010", "EntityName": "2010"}]}}

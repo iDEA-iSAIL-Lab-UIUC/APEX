@@ -1,0 +1,1 @@
+{"QuestionId": "162", "Parse": {"TopicEntityMid": "The Cruel Sea", "TopicEntityName": "The Cruel Sea", "InferentialChain": ["movie_to_year"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "1953", "EntityName": "1953"}]}}

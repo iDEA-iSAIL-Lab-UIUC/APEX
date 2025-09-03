@@ -1,0 +1,1 @@
+{"QuestionId": "185", "Parse": {"TopicEntityMid": "Takuya Kimura", "TopicEntityName": "Takuya Kimura", "InferentialChain": ["actor_to_movie"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Redline", "EntityName": "Redline"}]}}

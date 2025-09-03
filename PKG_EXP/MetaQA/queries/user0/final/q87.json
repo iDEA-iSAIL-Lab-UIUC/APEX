@@ -1,0 +1,1 @@
+{"QuestionId": "87", "Parse": {"TopicEntityMid": "Operator 13", "TopicEntityName": "Operator 13", "InferentialChain": ["movie_to_genre"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Romance", "EntityName": "Romance"}]}}

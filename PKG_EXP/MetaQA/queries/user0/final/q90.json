@@ -1,0 +1,1 @@
+{"QuestionId": "90", "Parse": {"TopicEntityMid": "Heaven Help Us", "TopicEntityName": "Heaven Help Us", "InferentialChain": ["movie_to_genre"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Drama", "EntityName": "Drama"}, {"AnswerType": "Entity", "AnswerArgument": "Comedy", "EntityName": "Comedy"}]}}

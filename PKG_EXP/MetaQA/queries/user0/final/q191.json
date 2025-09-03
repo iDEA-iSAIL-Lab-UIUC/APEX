@@ -1,0 +1,1 @@
+{"QuestionId": "191", "Parse": {"TopicEntityMid": "The Secrets", "TopicEntityName": "The Secrets", "InferentialChain": ["movie_to_writer"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Avi Nesher", "EntityName": "Avi Nesher"}]}}

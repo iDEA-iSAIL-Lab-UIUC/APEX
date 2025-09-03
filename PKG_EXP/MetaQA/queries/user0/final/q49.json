@@ -1,0 +1,1 @@
+{"QuestionId": "49", "Parse": {"TopicEntityMid": "Orson Scott Card", "TopicEntityName": "Orson Scott Card", "InferentialChain": ["writer_to_movie"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Ender's Game", "EntityName": "Ender's Game"}]}}

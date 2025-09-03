@@ -1,0 +1,1 @@
+{"QuestionId": "159", "Parse": {"TopicEntityMid": "Beware of Pity", "TopicEntityName": "Beware of Pity", "InferentialChain": ["movie_to_director"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Maurice Elvey", "EntityName": "Maurice Elvey"}]}}

@@ -1,0 +1,1 @@
+{"QuestionId": "88", "Parse": {"TopicEntityMid": "Operator 13", "TopicEntityName": "Operator 13", "InferentialChain": ["movie_to_year"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "1934", "EntityName": "1934"}]}}

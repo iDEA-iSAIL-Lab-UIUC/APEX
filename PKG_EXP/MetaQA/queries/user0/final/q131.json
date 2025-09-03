@@ -1,0 +1,1 @@
+{"QuestionId": "131", "Parse": {"TopicEntityMid": "Hell Drivers", "TopicEntityName": "Hell Drivers", "InferentialChain": ["movie_to_writer"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Cy Endfield", "EntityName": "Cy Endfield"}]}}

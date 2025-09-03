@@ -162,4 +162,3 @@ cython_debug/
 src/path.py
 try.py
 src/path.py
-*.json

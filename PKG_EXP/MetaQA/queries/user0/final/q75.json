@@ -1,0 +1,1 @@
+{"QuestionId": "75", "Parse": {"TopicEntityMid": "...All the Marbles", "TopicEntityName": "...All the Marbles", "InferentialChain": ["movie_to_genre"], "Constraints": [], "Answers": [{"AnswerType": "Entity", "AnswerArgument": "Drama", "EntityName": "Drama"}, {"AnswerType": "Entity", "AnswerArgument": "Comedy", "EntityName": "Comedy"}]}}
